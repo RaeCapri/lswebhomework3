@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: Rae Capri
 
-I like to:
+I like to: Listen to music, Watch movies and certain shows, Browse YouTube for tutorials, and practice coding in my spare time.
 
-I'm learning:
+I'm learning: HTML & CSS, hopefully JS later on in Lambda School's Mini Code Bootcamp
 
 ```
 
